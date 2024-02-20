@@ -1,7 +1,7 @@
 # Railway-Management-Database-Using-SQL
 # Railway Database System
-
-This project is a relational database system designed for managing railway operations. It includes tables for trains, routes, passengers, tickets, stations, and related functionalities.
+## Introduction
+This repository contains SQL scripts to create a basic railway database system. The system is designed to manage information related to trains, routes, passengers, tickets, and stations. The database schema includes tables for Train, Route, Passenger, Ticket, and Station, each serving a specific purpose within the railway system.
 
 ## Overview
 

@@ -59,5 +59,9 @@ Feel free to explore and customize the project based on your specific requiremen
 
 Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please open an issue or submit a pull request.
 
+## Contact
+
+abrarasa458@gmail.com
+LinkedIn - https://www.linkedin.com/in/abrar-syed-772703254/
 
 

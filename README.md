@@ -61,7 +61,7 @@ Contributions are welcome! If you have any ideas, enhancements, or bug fixes, pl
 
 ## Contact
 
-abrarasa458@gmail.com
+Email - abrarasa458@gmail.com
 LinkedIn - https://www.linkedin.com/in/abrar-syed-772703254/
 
 
